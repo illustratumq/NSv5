@@ -1,0 +1,22 @@
+# Cache
+__pycache__/
+
+# Keys/Certs/Sessions/Storages and similar
+*.pem
+*.session
+*.rdb
+*.exe
+*.sh
+*.session-journal
+*.jpg
+*.xlsx
+
+# Environments
+.env
+*env/
+*venv/
+*ENV/
+*VENV/
+
+# IDE
+.idea/
